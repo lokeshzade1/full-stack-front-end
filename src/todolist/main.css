@@ -1,0 +1,27 @@
+#nav{
+    width: 100%;
+    border: 2px solid;
+    height: 60px;
+}
+#middle{
+    display: flex;
+}
+#sidesection{
+    width: 20%;
+    height: 500px;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+#table{
+    width: 80%;
+    height: 500px;
+}
+table{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+th{
+    width: 100px;
+}
